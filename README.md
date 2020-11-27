@@ -12,3 +12,7 @@ sudo apt-get install python3-dev python3-pip
 sudo python3 -m pip install --upgrade pip setuptools wheel
 
 To run your code, enter python3 mydht11.py and press enter. If you did everything correctly, you’ll start seeing the temperature and humidity reported on the terminal window every 3 seconds.
+
+    DHT11/22 Sensor Vcc+ to Raspberry Pi 5V
+    DHT11/22 Sensor GND to Raspberry Pi GND
+    DHT11/22 Sensor Signal to Raspberry Pi PIN 7 (GPIO PIN 4)
